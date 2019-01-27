@@ -46,7 +46,17 @@
 *.mod*
 *.cmd
 .tmp_versions/
+
+packages/
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+debian/*log
+debian/*.debhelper
+debian/*.substvars
+debian/aic94xx-dkms/
+debian/debhelper-build-stamp
+debian/files
+

@@ -1,0 +1,5 @@
+aic94xx-dkms (4.15.0-0) stretch; urgency=medium
+
+  * Initial package.
+
+ -- Pablo Ruiz <pablo.ruiz@gmail.com>  Tue, 27 Jan 2019 20:58:00 +0100

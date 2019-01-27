@@ -1,0 +1,8 @@
+Source: aic94xx-dkms
+Maintainer: Pablo Ruiz <pablo.ruiz@gmail.com>
+Build-Depends: debhelper (>= 9), dkms
+
+Package: aic94xx-dkms
+Architecture: all
+Depends: ${misc:Depends}
+Description: DKMS source for aic94xx hotfix driver from https://github.com/pruiz/aic94xx-hotfix
